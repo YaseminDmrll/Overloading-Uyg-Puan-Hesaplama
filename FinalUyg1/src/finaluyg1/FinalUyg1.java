@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+Metotların Aşırı Yüklenmesi Yarışmacı Puanı Hesaplama Uygulaması
+Verilen değerele göre yarışmacının ismini ve puanını ekrana yazdıran  3 metotdan oluşan  bir overloading uygulamasıdır.
  */
 
 package finaluyg1;
